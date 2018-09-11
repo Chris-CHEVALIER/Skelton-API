@@ -6,13 +6,14 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "symfony/console": "*",
+        "symfony/dotenv": "*",
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "*",
         "symfony/monolog-bundle": "^3.3",
+        "symfony/security": "*",
         "symfony/yaml": "*"
     },
     "require-dev": {
-        "symfony/dotenv": "*"
     },
     "config": {
         "preferred-install": {
